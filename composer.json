@@ -1,0 +1,23 @@
+{
+    "name": "10253/start_test",
+    "description": "package",
+    "type": "project",
+    "require": {
+        "php": "^7.4",
+        "php-zts": "^7.4",
+        "pwk-yie/test": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "10253\\StartTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael",
+            "email": "pwkacc.yie@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

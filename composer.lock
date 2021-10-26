@@ -1,0 +1,66 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4be0f81f59dcd15368743dd00a214506",
+    "packages": [
+        {
+            "name": "pwk-yie/test",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pwk-yie/Test.git",
+                "reference": "461d45b8128c796c3e7805a0ffd0149014c9a7ff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pwk-yie/Test/zipball/461d45b8128c796c3e7805a0ffd0149014c9a7ff",
+                "reference": "461d45b8128c796c3e7805a0ffd0149014c9a7ff",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "10253\\test\\": "src/",
+                    "test\\test1\\": "src/test/test1",
+                    "test\\test2\\": "src/test/test2",
+                    "test\\test3\\": "src/test/test3",
+                    "test\\test4\\": "src/test/test4"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Michael",
+                    "email": "pwkacc.yie@gmail.com"
+                }
+            ],
+            "description": "package",
+            "support": {
+                "issues": "https://github.com/pwk-yie/Test/issues",
+                "source": "https://github.com/pwk-yie/Test/tree/master"
+            },
+            "time": "2021-10-26T08:17:35+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "pwk-yie/test": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.4",
+        "php-zts": "^7.4"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
