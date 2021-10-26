@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pwk-yie/Test.git",
-                "reference": "461d45b8128c796c3e7805a0ffd0149014c9a7ff"
+                "reference": "260a3dcc17c6125ea5fc6433adea945fed25e282"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pwk-yie/Test/zipball/461d45b8128c796c3e7805a0ffd0149014c9a7ff",
-                "reference": "461d45b8128c796c3e7805a0ffd0149014c9a7ff",
+                "url": "https://api.github.com/repos/pwk-yie/Test/zipball/260a3dcc17c6125ea5fc6433adea945fed25e282",
+                "reference": "260a3dcc17c6125ea5fc6433adea945fed25e282",
                 "shasum": ""
             },
             "default-branch": true,
@@ -25,10 +25,10 @@
             "autoload": {
                 "psr-4": {
                     "10253\\test\\": "src/",
-                    "test\\test1\\": "src/test/test1",
-                    "test\\test2\\": "src/test/test2",
-                    "test\\test3\\": "src/test/test3",
-                    "test\\test4\\": "src/test/test4"
+                    "code\\test1\\": "src/code/test1",
+                    "code\\test2\\": "src/code/test2",
+                    "code\\test3\\": "src/code/test3",
+                    "code\\test4\\": "src/code/test4"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -46,7 +46,7 @@
                 "issues": "https://github.com/pwk-yie/Test/issues",
                 "source": "https://github.com/pwk-yie/Test/tree/master"
             },
-            "time": "2021-10-26T08:17:35+00:00"
+            "time": "2021-10-26T08:50:38+00:00"
         }
     ],
     "packages-dev": [],
